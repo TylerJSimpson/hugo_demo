@@ -1,0 +1,5 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Demo for Hugo'
+theme = 'hugo-universal-theme'
+# style = "default" # options include: blue, green, marsala, pink, red, turqoise, violet
